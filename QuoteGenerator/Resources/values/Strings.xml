@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">QuoteGenerator</string>
+  <string name="catSelect">Select a category:</string>
+  <string name="wisdom">Wisdom</string>
+  <string name="funny">Funny</string>
+  <string name="intelligent">Intelligent</string>
+  <string name="generate">Generate a new quote</string>
+</resources>
